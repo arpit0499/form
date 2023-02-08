@@ -1,0 +1,24 @@
+{
+  "user": [
+    {
+      "id": "a",
+      "name": "a",
+      "password": "a",
+      "email": "a",
+      "phone": "a",
+      "country": "india",
+      "address": "a",
+      "gender": "female"
+    },
+    {
+      "id": "b",
+      "name": "b",
+      "password": "b",
+      "email": "b",
+      "phone": "b",
+      "country": "india",
+      "address": "b",
+      "gender": "male"
+    }
+  ]
+}
